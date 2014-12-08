@@ -2,6 +2,6 @@
 
 This demo app is for use with the two-part tutorial for creating a typeahead with AngularJS, Laravel and UI Bootstrap. 
 
-[Part 1 - Setting up the Front-End](http://ryanchenkie.com/typeahead-part-1)
+<a href="http://ryanchenkie.com/typeahead-part-1" target="_blank">Part 1 - Setting up the Front-End</a>
 
-[Part 2 - Setting up the Back-End](http://ryanchenkie.com/typeahead-part-2)
+<a href="http://ryanchenkie.com/typeahead-part-2" target="_blank">Part 2 - Setting up the Back-End</a>
