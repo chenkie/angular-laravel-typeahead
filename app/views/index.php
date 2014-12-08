@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <h1>Selected Airplane</h1>
-                    <pre>{{airplanes | json}}</pre>
+                    <pre>{{selectedAirplane | json}}</pre>
                 </div>
             </div>
         </div>
